@@ -1,0 +1,4 @@
+#name : {% elif %}
+# --
+{% elif ${cond} %}
+$0

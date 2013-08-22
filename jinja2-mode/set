@@ -1,0 +1,4 @@
+#name : {% set -%}
+# --
+{% set ${var} = ${other_var} -%}
+$0
