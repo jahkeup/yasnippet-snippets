@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: astate
+# key: astate
+# --
+<a ui-sref="$1">$0</a>
