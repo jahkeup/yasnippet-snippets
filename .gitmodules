@@ -1,0 +1,3 @@
+[submodule "js-mode"]
+	path = js-mode
+	url = https://github.com/azer/js-yasnippets.git
