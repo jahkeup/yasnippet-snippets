@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: coffee class
+# key: class
+# --
+class $1
+  construtor: ->
+    self = @
+    $0
+

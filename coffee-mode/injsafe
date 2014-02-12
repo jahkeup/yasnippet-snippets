@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: angular-inject-safe
+# key: injsafe
+# --
+[${1:'$scope'},
+(${1:$$(replace-regexp-in-string "[\"']" "" yas-text)}) ->
+$>$0
+]

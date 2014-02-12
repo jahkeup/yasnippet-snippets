@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: angular.service
+# key: appserv
+# --
+app.service '$1', ($2) ->
+$>$0

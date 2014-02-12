@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: class function def
+# key: clfn
+# --
+$1: ${2:($3)} ->
+$>$0

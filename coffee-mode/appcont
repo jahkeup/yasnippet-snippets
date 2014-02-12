@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: angular.controller
+# key: appcont
+# --
+app.controller '$1', ($2) ->
+$>$0

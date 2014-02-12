@@ -1,0 +1,9 @@
+#name: $state.is 'action' ... END ACTION
+#key: stateis
+# --
+if $state.is '${1:action.name}'
+  $0
+   
+#
+# END ACTION '$1'
+#
