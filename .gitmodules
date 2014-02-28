@@ -1,3 +1,6 @@
 [submodule "js-mode"]
 	path = js-mode
 	url = https://github.com/azer/js-yasnippets.git
+[submodule "clojure-mode"]
+	path = clojure-mode
+	url = https://github.com/swannodette/clojure-snippets.git
